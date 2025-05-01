@@ -5,6 +5,8 @@ Bienvenido a mi recetario de cocina.
 Este repositorio contiene una colección de recetas, organizadas por categorías con herramientas para planificación
 semanal.
 
+Todas las recetas son para 2 personas.
+
 ## Objetivos
 
 1. 🍽️ Aprender a cocinar platos deliciosos
