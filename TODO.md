@@ -1,4 +1,4 @@
-# Categorias de Recetas
+# Categorías de Recetas
 
 - ensaladas
 - pescados
